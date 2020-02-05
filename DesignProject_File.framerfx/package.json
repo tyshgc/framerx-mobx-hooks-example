@@ -1,0 +1,20 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "ecd1d349-6f1f-47d0-b9e2-d427895d014c"
+	},
+	"author": "Tsuyoshi Higuchi",
+	"dependencies": {
+		"@emotion/core": "^10.0.27",
+		"@emotion/styled": "^10.0.27",
+		"emotion": "^10.0.27"
+	}
+}
